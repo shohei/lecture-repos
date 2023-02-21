@@ -1,11 +1,16 @@
 # EMT3102 Advanced CAD/CAM
 
+2023
+
 - [Computer graphics](https://github.com/shohei/emt3102-computer-graphics)
 - [Robotic arm with Unity](https://github.com/shohei/emt3102-unity-robotic-arm])
+
+2019
+
 - [FEM](https://github.com/shohei/fem_emt3102)
 - [CFD](https://github.com/shohei/cfd_emt3102)
 - [Manipulator with Matlab](https://github.com/shohei/emt3102-manipulator)
-- [Control](https://github.com/shohei/emt3102-control])
+- [Control](https://github.com/shohei/emt3102-control)
 - [Robotics](https://github.com/shohei/robotics_emt3102)
 
 # EMT3108 Intelligent Control and Robotics
